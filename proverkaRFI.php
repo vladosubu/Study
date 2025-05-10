@@ -1,5 +1,5 @@
 <?php 
 
-system("cat /etc/passwd");
+echo "Проверка на RFI успешно пройдена :)"; 
 
 ?>
